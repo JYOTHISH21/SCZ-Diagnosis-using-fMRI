@@ -1,0 +1,1 @@
+# SCZ-Diagnosis-using-fMRI
